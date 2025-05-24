@@ -87,6 +87,28 @@ Welcome to the Tic-Tac-Toe Game! This classic two-player game challenges you to 
   
 Enjoy the game and see if you can outsmart your opponent in this classic battle of wits!
 
+---
+**5) Snake Game**
+
+Welcome to the Snake Game! This timeless arcade classic challenges you to control a snake as it slithers around the screen, eating food and growing longer with each bite. Test your reflexes and strategy as you try to achieve the highest score possible without crashing into the walls or your own tail.
+
+**How to Play:**
+1. Use the arrow keys or WASD to control the direction of the snake (up, down, left, right).
+2. Guide the snake to eat the food (red circle) that appears randomly on the screen.
+3. Each time the snake eats food, it grows longer and your score increases.
+4. The game ends if the snake hits the wall or collides with its own body.
+5. Try to beat your high score with each play!
+
+**Features:**
+- Real-time graphics and smooth movement using the `turtle` module.
+- Score tracking with a display of the current and high scores.
+- Increasing challenge as the snake grows longer.
+- Simple, intuitive controls for an engaging gameplay experience.
+
+Enjoy the Snake Game and see how long you can survive!
+
+---
+
 ### How to Run:
 Clone the repository: git clone https://github.com/MustansirNisar/Python-Games.git
 
